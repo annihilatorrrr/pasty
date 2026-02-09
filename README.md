@@ -1,6 +1,9 @@
 # pasty
 Pasty is a fast and lightweight code pasting server
 
+> [!CAUTION]
+> pasty was misused for distributing illegal material and I received emails from my hosting provider about it. It will remain offline until I manage to implement better report workflows. If you need any stored pastes, send me an email at `hi@kas.lu` or join my [Discord server](https://discord.gg/GaNdScZ4Hq) and ask me there. I am sorry for the inconveniences.
+
 ## !!! Important deprecation notices !!!
 
 > This version of pasty uses a new field name for the so far called `deletionToken`: `modificationToken`.
