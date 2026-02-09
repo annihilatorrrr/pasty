@@ -22,7 +22,7 @@ Pasty is a fast and lightweight code pasting server
 
 As pasty is an open source project on GitHub you can open an [issue](https://github.com/lus/pasty/issues) whenever you encounter a problem or feature request.
 However, it may be annoying to open an issue just to ask a simple question about pastys functionalities, get help with the installation process or mention something about the hosted version.
-This is why I created a simple [Discord server](https://go.lus.pm/discord) you may want to join to get an answer to stuff like that pretty quickly.
+This is why I created a simple [Discord server](https://discord.gg/GaNdScZ4Hq) you may want to join to get an answer to stuff like that pretty quickly.
 
 ## Disclaimer
 
